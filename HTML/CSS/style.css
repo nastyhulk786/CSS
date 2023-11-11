@@ -1,0 +1,50 @@
+#col {
+  background-color: brown;
+}
+#col2 {
+  background-color: rgb(247, 11, 102);
+}
+#col3 {
+  background-color: rgb(5, 205, 231);
+}
+#col col2 col3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#row {
+  background-color: aqua;
+}
+#row2 {
+  background-color: gray;
+}
+#table {
+  border-collapse: collapse;
+  border: 10px solid black;
+  font-family: arial, sans-serif;
+  width: 100%;
+}
+#table2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100%;
+  border-collapse: collapse;
+}
+#th {
+  text-align: center;
+  background-color: deepskyblue;
+}
+#td {
+  text-align: left;
+  background-color: rgb(7, 241, 163);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#td2 {
+  text-align: left;
+  background-color: grey;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#table2,
+#th,
+#td,
+#td2 {
+  border: 5px solid #0c94f0;
+}
